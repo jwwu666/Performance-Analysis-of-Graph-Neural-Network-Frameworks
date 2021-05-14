@@ -9,20 +9,30 @@
 ## Run Trainer
 ### node classification
 * GCN  
+
     DGL:  python /node classification/gcn_dgl.py  
+    
     PyG:  python /node classification/gcn_pyg.py  
 * GAT   
+
     DGL:  python /node classification/gat_dgl.py  
+    
     PyG:  python /node classification/gat_pyg.py  
 * GIN  
   ...
 ### graph classification
 * GCN  
+
     DGL:  python /graph classification/gcn_dgl.py  
+    
     PyG:  python /graph classification/gcn_pyg.py  
+    
 * GAT   
+
     DGL:  python /graph classification/gat_dgl.py  
+    
     PyG:  python /graph classification/gat_pyg.py  
+    
 * GIN  
   ...
 ### multi-GPU training
